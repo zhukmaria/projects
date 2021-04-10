@@ -3,5 +3,6 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Оптимизация маркетинговых расходов](optimizatiom_marketing_costs) | Анализ данных интернет-сервиса с целью оптимизации маркетинговых расходов| Pandas, Matplotlib |
+| [Оптимизация маркетинговых расходов](https://github.com/zhukmaria/projects/tree/optimization_marketing_costs) | Анализ данных интернет-сервиса с целью оптимизации маркетинговых расходов| Pandas, Matplotlib |
+| [Анализ пользовательского поведения](https://github.com/zhukmaria/projects/tree/analysis_of_user_behavior) | Анализ поведения  пользователей мобильного приложения| A/B-тестирование, Matplotlib, Pandas, Plotly, Seaborn |
 | [Анализ пользовательского поведения](https://github.com/zhukmaria/projects/tree/analysis_of_user_behavior) | Анализ поведения  пользователей мобильного приложения| A/B-тестирование, Matplotlib, Pandas, Plotly, Seaborn |
