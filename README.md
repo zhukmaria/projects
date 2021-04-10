@@ -1,2 +1,2 @@
 # projects
-This repository contains projects that were written in Python.
+Репозиторий содержит проекты, выполненные на Python в ходе обучения в Яндекс.Практикуме по профессии "Аналитик данных".
